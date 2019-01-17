@@ -26,3 +26,11 @@ ul li{
     color: green
 }
 .ipsum{color: blue}
+.elvis{
+    border: 1px solid red;
+    padding: 1em;
+}
+.elvis strong,
+.elvis em{
+    color:blue;
+}
